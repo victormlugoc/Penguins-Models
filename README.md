@@ -58,24 +58,7 @@ Todos los modelos fueron entrenados utilizando las mismas variables predictoras 
 
 Los modelos serán comparados mediante distintas métricas de evaluación, principalmente Accuracy, Precision, Recall, F1-Score y matrices de confusión. El objetivo es identificar qué algoritmo ofrece la mejor capacidad de clasificación para distinguir correctamente entre las diferentes especies de pingüinos.
 
----
 
-## Estructura del Repositorio
-
-```text
-Penguins-Models/
-│
-├── notebooks/
-│   ├── Adaboost.ipynb
-│   ├── Modelos_Lineales.ipynb
-│   ├── Random_Forest.ipynb
-│   ├── Red_Neuronal_Palmer.ipynb
-│   └── XGBoost.ipynb
-│
-└── README.md
-```
-
----
 
 ## Integrantes del Equipo
 
