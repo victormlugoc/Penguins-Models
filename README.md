@@ -27,20 +27,4 @@ Se desarrollaron y compararon diferentes modelos de clasificación para evaluar 
 - XGBoost
 - Red Neuronal
 
----
 
-## Estructura del Repositorio
-
-```text
-Penguins-Models/
-│
-├── data/
-├── notebooks/
-│   ├── Adaboost.ipynb
-│   ├── Modelos_Lineales.ipynb
-│   ├── Random_Forest.ipynb
-│   ├── Red_Neuronal_Palmer.ipynb
-│   └── XGBoost.ipynb
-│
-├── resultados/
-└── README.md
