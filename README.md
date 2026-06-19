@@ -9,8 +9,6 @@
 - Jorge Ignacio González Cázare
 - Alan Riva Palacio Cohen
 
----
-
 ## Introducción
 
 El análisis de datos y los modelos de Machine Learning son herramientas fundamentales para identificar patrones en la información y apoyar la toma de decisiones. Una de las tareas más comunes dentro de este campo es la clasificación, la cual consiste en asignar una categoría a una observación a partir de un conjunto de características o variables.
@@ -19,13 +17,9 @@ En este proyecto se utiliza el conjunto de datos **Palmer Penguins**, recopilado
 
 Este dataset es ampliamente utilizado dentro de la comunidad de ciencia de datos como una alternativa moderna al clásico conjunto de datos Iris, ya que representa un problema de clasificación multiclase con variables biológicas reales y relaciones interesantes entre ellas.
 
----
-
 ## Objetivo
 
 Construir y comparar distintos modelos de clasificación para determinar cuál es el más adecuado para identificar la especie de un pingüino a partir de sus características morfológicas.
-
----
 
 ## Metodología
 
@@ -52,12 +46,9 @@ Una vez completadas estas etapas, se implementaron y evaluaron los siguientes al
 
 Todos los modelos fueron entrenados utilizando las mismas variables predictoras para garantizar una comparación objetiva de su desempeño.
 
----
-
 ## Resultados Esperados
 
 Los modelos serán comparados mediante distintas métricas de evaluación, principalmente Accuracy, Precision, Recall, F1-Score y matrices de confusión. El objetivo es identificar qué algoritmo ofrece la mejor capacidad de clasificación para distinguir correctamente entre las diferentes especies de pingüinos.
-
 
 
 ## Integrantes del Equipo
