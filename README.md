@@ -1,28 +1,46 @@
-# Penguins-Models
-Universidad Nacional Autónoma de México 
+# 🐧 Clasificación de Especies de Pingüinos
 
-Diplomado: Introducción Analítica a la Ciencia de Datos 
+## Universidad Nacional Autónoma de México (UNAM)
 
-Módulo 5: Aprendizaje supervisado 
+**Diplomado:** Introducción Analítica a la Ciencia de Datos  
+**Módulo 5:** Aprendizaje Supervisado
 
-Profesores: Jorge Ignacio González Cázare 
+### Profesores
+- Jorge Ignacio González Cázare
+- Alan Riva Palacio Cohen
 
-Alan Riva Palacio Cohen 
+---
 
-Proyecto Módulo 5 
+## Descripción del Proyecto
 
-Clasificación de Especies de Pingüinos 
+Este proyecto tiene como objetivo clasificar especies de pingüinos utilizando distintos algoritmos de Machine Learning aplicados al dataset Palmer Penguins.
 
-Integrantes del equipo: 
+Se desarrollaron y compararon diferentes modelos de clasificación para evaluar su desempeño en la identificación de especies a partir de características morfológicas de los individuos.
 
--Argumedo Sandoval María Fernanda 
+---
 
--De la Cruz Salazar Norma Arely 
+## Modelos Implementados
 
--Fuentes Cacho Rodolfo 
+- Modelos Lineales
+- Random Forest
+- AdaBoost
+- XGBoost
+- Red Neuronal
 
--Lugo Cruz Victor Manuel 
+---
 
--Mora Gutierrez Karla Fernanda 
+## Estructura del Repositorio
 
--Sánchez Aguirre Luz Lorena 
+```text
+Penguins-Models/
+│
+├── data/
+├── notebooks/
+│   ├── Adaboost.ipynb
+│   ├── Modelos_Lineales.ipynb
+│   ├── Random_Forest.ipynb
+│   ├── Red_Neuronal_Palmer.ipynb
+│   └── XGBoost.ipynb
+│
+├── resultados/
+└── README.md
