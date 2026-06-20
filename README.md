@@ -50,6 +50,8 @@ Todos los modelos fueron entrenados utilizando las mismas variables predictoras 
 
 Los modelos serán comparados mediante distintas métricas de evaluación, principalmente Accuracy, Precision, Recall, F1-Score y matrices de confusión. El objetivo es identificar qué algoritmo ofrece la mejor capacidad de clasificación para distinguir correctamente entre las diferentes especies de pingüinos.
 
+## Presentación
+https://canva.link/ulljuevd37qvl6m
 
 ## Integrantes del Equipo
 
